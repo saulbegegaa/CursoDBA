@@ -1,0 +1,14 @@
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Form1.resources
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Properties.Resources.resources
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.GenerateResource.cache
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Form2.resources
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Form3.resources
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Form4.resources
+C:\Users\vboxuser\Source\Repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Form5.resources
