@@ -1,0 +1,39 @@
+tblPedidos
+intID
+intClienteID
+datFecha
+decTotal
+strEstado
+strMetodoPago
+strPais
+
+SELECT 		*
+FROM 		tblPedidos
+WHERE	
+	(	
+		(decTotal BETWEEN 100 AND 300
+			AND
+		strEstado = 'Enviado')
+		OR
+		(decTotal > 500
+			AND
+		strEstado = 'Pendiente')
+	)
+	AND
+		strMetodoPago <> 'Efectivo'
+	AND
+	(	
+		strPais IN ('España','Francia')
+		AND NOT
+		(strEstado = 'Cancelado'
+			AND
+		decTotal < 50)
+	)
+	AND
+		datFecha BETWEEN '2023-01-01' AND '2023-12-31'
+	AND
+	(
+		strMetodoPago = 'Paypal' 
+			AND
+		decTotal > 120
+	)
