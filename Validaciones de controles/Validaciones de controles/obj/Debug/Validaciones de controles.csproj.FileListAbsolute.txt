@@ -1,0 +1,10 @@
+C:\Users\vboxuser\source\repos\Validaciones de controles\Validaciones de controles\bin\Debug\Validaciones de controles.exe.config
+C:\Users\vboxuser\source\repos\Validaciones de controles\Validaciones de controles\bin\Debug\Validaciones de controles.exe
+C:\Users\vboxuser\source\repos\Validaciones de controles\Validaciones de controles\bin\Debug\Validaciones de controles.pdb
+C:\Users\vboxuser\source\repos\Validaciones de controles\Validaciones de controles\obj\Debug\Validaciones de controles.csproj.AssemblyReference.cache
+C:\Users\vboxuser\source\repos\Validaciones de controles\Validaciones de controles\obj\Debug\Validaciones_de_controles.Form1.resources
+C:\Users\vboxuser\source\repos\Validaciones de controles\Validaciones de controles\obj\Debug\Validaciones_de_controles.Properties.Resources.resources
+C:\Users\vboxuser\source\repos\Validaciones de controles\Validaciones de controles\obj\Debug\Validaciones de controles.csproj.GenerateResource.cache
+C:\Users\vboxuser\source\repos\Validaciones de controles\Validaciones de controles\obj\Debug\Validaciones de controles.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\source\repos\Validaciones de controles\Validaciones de controles\obj\Debug\Validaciones de controles.exe
+C:\Users\vboxuser\source\repos\Validaciones de controles\Validaciones de controles\obj\Debug\Validaciones de controles.pdb
