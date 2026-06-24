@@ -1,0 +1,10 @@
+C:\Users\vboxuser\source\repos\AlquilerVehiculos\AlquilerVehiculos\bin\Debug\AlquilerVehiculos.exe.config
+C:\Users\vboxuser\source\repos\AlquilerVehiculos\AlquilerVehiculos\bin\Debug\AlquilerVehiculos.exe
+C:\Users\vboxuser\source\repos\AlquilerVehiculos\AlquilerVehiculos\bin\Debug\AlquilerVehiculos.pdb
+C:\Users\vboxuser\source\repos\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.csproj.AssemblyReference.cache
+C:\Users\vboxuser\source\repos\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.Form1.resources
+C:\Users\vboxuser\source\repos\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.Properties.Resources.resources
+C:\Users\vboxuser\source\repos\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.csproj.GenerateResource.cache
+C:\Users\vboxuser\source\repos\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\source\repos\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.exe
+C:\Users\vboxuser\source\repos\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.pdb
