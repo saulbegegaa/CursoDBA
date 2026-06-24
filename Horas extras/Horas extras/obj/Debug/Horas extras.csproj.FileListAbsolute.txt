@@ -1,0 +1,10 @@
+C:\Users\vboxuser\source\repos\Horas extras\Horas extras\bin\Debug\Horas extras.exe.config
+C:\Users\vboxuser\source\repos\Horas extras\Horas extras\bin\Debug\Horas extras.exe
+C:\Users\vboxuser\source\repos\Horas extras\Horas extras\bin\Debug\Horas extras.pdb
+C:\Users\vboxuser\source\repos\Horas extras\Horas extras\obj\Debug\Horas extras.csproj.AssemblyReference.cache
+C:\Users\vboxuser\source\repos\Horas extras\Horas extras\obj\Debug\Horas_extras.Form1.resources
+C:\Users\vboxuser\source\repos\Horas extras\Horas extras\obj\Debug\Horas_extras.Properties.Resources.resources
+C:\Users\vboxuser\source\repos\Horas extras\Horas extras\obj\Debug\Horas extras.csproj.GenerateResource.cache
+C:\Users\vboxuser\source\repos\Horas extras\Horas extras\obj\Debug\Horas extras.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\source\repos\Horas extras\Horas extras\obj\Debug\Horas extras.exe
+C:\Users\vboxuser\source\repos\Horas extras\Horas extras\obj\Debug\Horas extras.pdb
